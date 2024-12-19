@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: '星空之下' 
-subtitle: '童年的小翼龙 的博客'
+title: 'AuiunuBlog' 
+subtitle: 'ain 的博客'
 description: ''
 keywords:
-author: Slongod
+author: auiunu
 language: zh-Hans
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://slongod.github.io
+url: https://auiunu.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

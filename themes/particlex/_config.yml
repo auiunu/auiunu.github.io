@@ -2,14 +2,14 @@
 # https://github.com/theme-particlex/hexo-theme-particlex
 
 # Avatar image
-avatar: https://cdn.luogu.com.cn/upload/image_hosting/dnunbxm4.png
+avatar: https://pic.imgdb.cn/item/67640ec1d0e0a243d4e6ac9b.jpg
 
 # Home page background image
 background:
-    - https://pic.imgdb.cn/item/65434ee9c458853aef355b78.jpg
+    - https://pic.imgdb.cn/item/674c3570d0e0a243d4db9cd1.png
 
 # Loading image
-loading: /images/LD.gif
+loading: /images/loading.gif
 
 # Optional colors for category and tag
 colors:
@@ -53,7 +53,7 @@ menu:
 card:
     enable: true
     description: |
-        七九五十三。
+        总有新故事值得盼望
     iconLinks:
     friendLinks:
 
